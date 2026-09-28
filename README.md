@@ -174,6 +174,8 @@ class Ziyan:
     mindset = "Always learning"
 
     goal = "Build technology that solves real problems"
+My philosophy :
+I believe the fastest way to understand technology is to build with it.  
 
 ⭐ Thanks for visiting my profile!
 
